@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DoubleV27.
+- 👀 I’m interested in Law, History, entrepreneurship and Programming.
+- 🌱 I’m currently learning Law in the university, and programming in some online courses.
+- 💞️ I look forward to deepening my knowledge of technology and programming, and maybe find some job in the area.
