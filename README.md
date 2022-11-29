@@ -8,6 +8,3 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 ![DoubleV27 GitHub Status](https://github-readme-stats.vercel.app/api?username=DoubleV27&theme=dark)
-
-# Projetos:
-1[Readme Card](ttps://gists-readme.yizack.com/api/pin?user=DoubleV27&id=https://github.com/DoubleV27/Guess-the-number---Test-project&owner=true)
