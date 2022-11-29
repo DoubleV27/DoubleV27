@@ -1,16 +1,13 @@
-### Hi there 👋
+## Olá 👋
 
-<!--
-**DoubleV27/DoubleV27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱Atualmente estou estudando Python mas pretendo também me aprofundar em JavaScrypt, CSS e HTML
 
-Here are some ideas to get you started:
+📚 Utilizo também o Canva para design, mas mais voltado para uso pessoal. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Pytjon](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
+![DoubleV27 GitHub Status](https://github-readme-stats.vercel.app/api?username=DoubleV27&theme=dark)
+
+# Projetos:
+1[Readme Card](ttps://gists-readme.yizack.com/api/pin?user=DoubleV27&id=https://github.com/DoubleV27/Guess-the-number---Test-project&owner=true)
